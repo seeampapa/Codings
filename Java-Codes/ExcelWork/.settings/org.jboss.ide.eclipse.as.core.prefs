@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.jboss.ide.eclipse.as.core.singledeployable.deployableList=src/amp/util/excel/ExcelUtil.java\nsrc/amp/util/excel/ExcelMetaHelper.java\nsrc/amp/util/excel/ExcelPersist.java\n\nsrc/com/amp/test/JavaTest.java\nsrc/amp/test/MainTest.java\nsrc/amp/main/AmpMain.java\n

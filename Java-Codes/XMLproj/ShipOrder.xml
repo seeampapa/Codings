@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="123456" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="shiporder.xsd">
+  <orderperson>Pradeep</orderperson>
+  <shipto>
+    <name>Pradeep</name>
+    <address>Chrompet</address>
+    <city>Chennai</city>
+    <country>India</country>
+  </shipto>
+  <item>
+    <title>Item 1</title>
+    <note>Hello, This should be delivered in 5 days sharp</note>
+    <quantity>1</quantity>
+    <price>1000.0</price>
+  </item>
+</shiporder>

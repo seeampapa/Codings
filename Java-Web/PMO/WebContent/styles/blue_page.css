@@ -1,0 +1,96 @@
+/**
+* BLUE
+* header: 5077C0;
+* 
+*/
+
+/* Main Content */
+#content{
+  position: relative;
+  top: 30px;
+  width: 100%;
+  margin: 0% 0% 0% 0%;
+  /*border: 1px solid orange;*/
+}
+
+
+/* Login Page related */
+#content #loginText{
+  font-family:"Helvetica", "Arial", "FreeSans", "Verdana", "Tahoma", "Lucida Sans", "Lucida Sans Unicode", "Luxi Sans", sans-serif;
+  position: relative;
+  width: 100%;
+  height: auto;
+  /*border: 1px solid orange;*/
+}
+#content #loginText h2, p{
+  margin-left: 10%;
+  padding: 0px;
+  margin-bottom: 3px;
+  /*border: 1px solid orange;*/
+}
+#content form{
+  position: relative;
+  width: 100%;
+  height: auto;
+  /*border: 1px solid grey;*/
+}
+#content form #loginForm{
+  position: absolute;
+  top: 20px;
+  left: 10%;
+  width: 100%;
+  /*border: 1px solid grey;*/
+}
+#content form #loginForm a{
+  position: relative;
+  top: 20px;
+  font-size: 14px;
+  color: #c0c0c0;
+  text-decoration: none;
+  
+}
+#content form #loginForm a:hover{
+  color: #000000;
+  text-decoration: underline;
+}
+
+/* BV Table*/
+.bvtableHeader_newClass{
+	text-decoration: none;
+	text-align: left;
+	font-weight: normal;
+}
+
+.bvdtheader{
+	font-weight: normal;
+}
+
+.bvdtcol1{
+	width: 15px;
+}
+
+.bvdtcol2{
+	width: 15px;
+}
+
+.bvdtcol3{
+	width: 15px;
+}
+.bvdtcol4{
+	width: 15px;
+}
+.bvdtcol5{
+	width: 15px;
+}
+.bvdtcol6{
+	width: 15px;
+}
+.bvdtcol7{
+	width: 15px;
+}
+.bvdtcol8{
+	width: 15px;
+}
+.bvdtcol9{
+	width: 15px;
+}
